@@ -35,3 +35,6 @@ The dataset used in this project includes credit card transactions made by Europ
 
 **Outcome:**
 The SecurePay model will enable financial institutions to detect and prevent fraudulent transactions in real-time, helping to reduce financial losses and foster customer trust. With an emphasis on accuracy and efficiency, SecurePay is designed to be a vital tool in the fight against credit card fraud.
+
+**Access the Project Data and Live Model:**
+[Google Drive Folder](https://drive.google.com/drive/folders/1fkipZr5DINvCx3uOkmDJ4j01V0FbSscT?usp=sharing)
